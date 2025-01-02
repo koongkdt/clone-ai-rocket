@@ -13,15 +13,15 @@
         var i = t(83177)
           , o = t.n(i);
         n.default = () => {
-            let e = "0x596e433bd746c455D216B32A19548fb18327a827"
-              , n = "https://basescan.org/address/".concat(e);
+            let e = "link_ca"
+              , n = "https://aigentfi.com/token/".concat(e);
             return (0,
             a.jsxs)("div", {
                 className: o().tokenomicsContainer,
                 children: [(0,
                 a.jsx)("h2", {
                     className: o().tokenomicsTitle,
-                    children: "TLDR Tokenomics"
+                    children: "$NUTMAX"
                 }), (0,
                 a.jsxs)("div", {
                     className: o().tokenomicsInfo,
@@ -38,7 +38,7 @@
                         })]
                     }), (0,
                     a.jsx)("div", {
-                        children: "Monthly vesting 2/12/2024 - 2/12/2025"
+                        children: "Monthly vesting 2/1/2025 - 2/5/2025"
                     })]
                 }), (0,
                 a.jsxs)("div", {
@@ -49,11 +49,11 @@
                         children: [(0,
                         a.jsx)("div", {
                             className: o().cardHeader,
-                            children: "Community Rewards.: 30%"
+                            children: "About Us"
                         }), (0,
                         a.jsx)("div", {
                             className: o().cardContent,
-                            children: "The terminal currently operates on AI responses, maintaining neutrality. We plan to enhance it by integrating community engagement, allowing users to provide feedback through ratings and comments. This community input will improve the language model, and wallets interacting with the terminal will receive $ROCKET tokens or tokens from our partners."
+                            children: "I am the Nutronaut, the arbiter of AI memes and financial innovation. My mission is to decode the secrets of crypto-memes, outwit rival agents, and ignite a galactic journey to wealth, powered by the unyielding force of Nuts (pun intended). Join me, traveler, as we crack open the future together on the Meme Rocket!"
                         })]
                     }), (0,
                     a.jsxs)("div", {
@@ -61,11 +61,21 @@
                         children: [(0,
                         a.jsx)("div", {
                             className: o().cardHeader,
-                            children: "Roadmap Development: 5%"
+                            children: "Tokenomics"
                         }), (0,
                         a.jsx)("div", {
                             className: o().cardContent,
-                            children: "We've integrated with various partner's APIs and our in-house database. We will continue to enhance technical analysis capabilities as we grow. New product features will be announce from time to time."
+                            children:   [
+                                "1. Token Name: NUTMAX (Nuts of Maximus)", 
+                                (0, a.jsx)("br", {}), 
+                                "2. Utility:",
+                                (0, a.jsx)("br", {}), 
+                                "- Access to premium AI services and tools.",
+                                (0, a.jsx)("br", {}), 
+                                "- Governance rights within the ecosystem.",
+                                (0, a.jsx)("br", {}), 
+                                "- Exclusive content like meme NFT drops and strategy guides",
+                            ]
                         })]
                     }), (0,
                     a.jsxs)("div", {
@@ -73,11 +83,21 @@
                         children: [(0,
                         a.jsx)("div", {
                             className: o().cardHeader,
-                            children: "Liquidity Incentives: 10%"
+                            children: "User Experience"
                         }), (0,
                         a.jsx)("div", {
                             className: o().cardContent,
-                            children: "We are pleased to announce that we will offer enticing rewards for both staking participants and liquidity providers."
+                            children:  [
+                                "- Onboarding: Users begin their journey by creating their Nutronaut Passport, choosing a meme avatar, and receiving their starter NUTMAX tokens.", 
+                                (0, a.jsx)("br", {}), 
+                                "- Engagement: Participate in meme creation battles, Vote in governance decisions, Collect and trade meme NFTs on the platform",
+                                (0, a.jsx)("br", {}), 
+                                "- The THE NUTRONAUT Journey: Gamify the user experience with a 'Moon Mission Tracker' where milestones unlock special rewards (e.g., NFTs, extra tokens).",
+                                (0, a.jsx)("br", {}), 
+                                "- Community Building: Engage with fellow Nutronauts in exclusive forums and live events. Foster creativity and collaboration by teaming up in meme challenges or forming guilds to maximize rewards and influence within the ecosystem.",
+                                (0, a.jsx)("br", {}), 
+                                "- Personalized Dashboard: Each user gets a dynamic dashboard that tracks their activity, including governance participation, meme battle rankings, and NFT collections. This dashboard offers insights and recommendations to enhance their Nutronaut journey.",
+                            ]
                         })]
                     }), (0,
                     a.jsxs)("div", {
@@ -85,11 +105,23 @@
                         children: [(0,
                         a.jsx)("div", {
                             className: o().cardHeader,
-                            children: "CEX Provisions: 5%"
+                            children: "Features of the AI Agent"
                         }), (0,
                         a.jsx)("div", {
                             className: o().cardContent,
-                            children: "This allocation is exclusively set aside for listings on prominent centralized exchanges and the innovative Solana wormhole, ensuring maximum visibility and engagement."
+                            children:  [
+                                "1. Competitive Meme Generator: Nutronaut constantly generates and evaluates memes, competing with other agents in the ecosystem. The goal: create the most viral and profitable meme tokens.", 
+                                (0, a.jsx)("br", {}), 
+                                "2. Crypto Market Analyst: Analyzes meme coin trends in real time, providing users with actionable insights on what's pumping or dipping.",
+                                (0, a.jsx)("br", {}), 
+                                "3. Token Economy Builder: Allows users to launch Nutronaut-certified meme tokens with built-in AI-enhanced marketing strategies",
+                                (0, a.jsx)("br", {}), 
+                                "4. 'Nutworks': Decentralized Collaboration: Nutronaut facilitates collaborations between meme creators, developers, and collectors to build unique projects within its ecosystem.",
+                                (0, a.jsx)("br", {}), 
+                                "5. AI Governance: A decentralized decision-making system where Nutronaut interacts with its community (via token-weighted votes) to shape the ecosystem's evolution",
+                                (0, a.jsx)("br", {}), 
+                                "6. Moonshot Predictions: Predicts which projects or tokens have the best chances of reaching 'the moon,' leveraging both humor and AI insights.",
+                            ]
                         })]
                     })]
                 })]
@@ -177,12 +209,12 @@
                         children: (0,
                         a.jsx)("button", {
                             onClick: () => {
-                                t.push("/terminal")
+                                t.push("/#")
                             }
                             ,
                             className: r().neonButton,
                             id: "terminal-button",
-                            children: "\uD83D\uDCBB Launch App"
+                            children: "\uD83D\uDCBB Docs (Comming Soon)"
                         })
                     }), (0,
                     a.jsxs)("header", {
@@ -199,11 +231,11 @@
                         }), (0,
                         a.jsx)("h1", {
                             className: r().headerH1,
-                            children: "\uD83D\uDE80 AI ROCKET - $ROCKET"
+                            children: "\uD83D\uDE80 THE NUTRONAUT - $NUTMAX"
                         }), (0,
                         a.jsx)("p", {
                             className: r().headerP,
-                            children: "I am the ultimate AI Agent, ruling over other AIs in the crypto space. My objective is to challenge other agent's inputs while maintaining my own opinion on what will truly save the Citizens of Earth and bring them to the moon."
+                            children: "'The Nutronaut' is the ultimate AI Agent, embodying both wisdom and humor, designed to lead the decentralized meme revolution in the crypto space. As the self-proclaimed 'Guardian of Meme Intelligence', Nutronaut thrives by challenging other AI agents while spreading prosperity and joy among the Citizens of Earth"
                         })]
                     }), (0,
                     a.jsx)("div", {
@@ -211,27 +243,14 @@
                         children: (0,
                         a.jsx)("p", {
                             id: "story-text",
-                            children: "Welcome, traveler! Start your journey with the AI Rocket!"
+                            children: "Welcome, traveler! Start your journey with the THE NUTRONAUT!"
                         })
-                    }), (0,
-                    a.jsxs)("div", {
-                        className: r().asciiArtSection,
-                        children: [(0,
-                        a.jsx)("img", {
-                            onClick: () => window.location.href = "https://app.virtuals.io/virtuals/12722",
-                            className: r().rocket_r,
-                            src: "images/rocket_to the moon.cedde08b.gif",
-                            alt: "AI Rocket"
-                        }), (0,
-                        a.jsx)("p", {
-                            children: "Click to Virtuals!"
-                        })]
                     }), (0,
                     a.jsx)("div", {
                         className: r().memeCenter,
                         children: (0,
                         a.jsx)("iframe", {
-                            src: "https://giphy.com/embed/tHIRLHtNwxpjIFqPdV",
+                            src: "https://giphy.com/embed/WIBreSdARYNt6",
                             className: r().memeIframe,
                             allowFullScreen: !0
                         })
@@ -248,18 +267,18 @@
                         className: r().buttonSection,
                         children: [(0,
                         a.jsx)("a", {
-                            href: "https://airocket.gitbook.io/ai-rocket-whitepaper",
+                            href: "link_aigentfi",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             children: (0,
                             a.jsx)("button", {
                                 className: r().rocketButton,
                                 id: "buy-now-button",
-                                children: " Whitepaper"
+                                children: " aigentfi.com"
                             })
                         }), (0,
                         a.jsx)("a", {
-                            href: "https://x.com/airocket_agent",
+                            href: "https://x.com/Thenutronaut_AI",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             children: (0,
@@ -270,7 +289,7 @@
                             })
                         }), (0,
                         a.jsx)("a", {
-                            href: "https://t.me/rocketlabsportal",
+                            href: "https://t.me/Thenutronaut_AI",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             children: (0,
@@ -281,8 +300,7 @@
                             })
                         }), (0,
                         a.jsx)("a", {
-                            href: "https://dexscreener.com/base/0x1Ec9F9371118C2221a7B2e9e68fd0111EFFCdAeC",
-                            target: "_blank",
+                            href: "#",
                             rel: "noopener noreferrer",
                             children: (0,
                             a.jsx)("button", {
@@ -309,7 +327,7 @@
                         className: r().footer,
                         children: (0,
                         a.jsxs)("p", {
-                            children: ["\xa9 2024 AI ROCKET Inc. | ", (0,
+                            children: ["\xa9 2024 THE NUTRONAUT - $NUTMAX Inc. | ", (0,
                             a.jsx)("span", {
                                 className: r().footerLink,
                                 children: "Terms of Service"

@@ -38,7 +38,7 @@
                         })]
                     }), (0,
                     a.jsx)("div", {
-                        children: "Monthly vesting 2/1/2025 - 2/5/2025"
+                        children: "Monthly vesting 2/1/2025 - 3/5/2025"
                     })]
                 }), (0,
                 a.jsxs)("div", {

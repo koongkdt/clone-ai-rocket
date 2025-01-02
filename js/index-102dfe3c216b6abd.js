@@ -13,7 +13,7 @@
         var i = t(83177)
           , o = t.n(i);
         n.default = () => {
-            let e = "link_ca"
+            let e = "0x2B3e6252301B1aBF1bb2AB6b21488E8a565b3888"
               , n = "https://aigentfi.com/token/".concat(e);
             return (0,
             a.jsxs)("div", {
@@ -267,7 +267,7 @@
                         className: r().buttonSection,
                         children: [(0,
                         a.jsx)("a", {
-                            href: "link_aigentfi",
+                            href: "https://aigentfi.com/token/0x2B3e6252301B1aBF1bb2AB6b21488E8a565b3888",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             children: (0,

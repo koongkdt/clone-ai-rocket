@@ -278,7 +278,7 @@
                             })
                         }), (0,
                         a.jsx)("a", {
-                            href: "link_x",
+                            href: "https://x.com/foxaionsol",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             children: (0,
@@ -289,7 +289,7 @@
                             })
                         }), (0,
                         a.jsx)("a", {
-                            href: "link_tele",
+                            href: "https://t.me/foxAI_solana",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             children: (0,

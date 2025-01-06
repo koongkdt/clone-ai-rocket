@@ -13,15 +13,15 @@
         var i = t(83177)
           , o = t.n(i);
         n.default = () => {
-            let e = "0x2B3e6252301B1aBF1bb2AB6b21488E8a565b3888"
-              , n = "https://aigentfi.com/token/".concat(e);
+            let e = "ca_pumpfun"
+              , n = "https://pump.fun/coin/".concat(e);
             return (0,
             a.jsxs)("div", {
                 className: o().tokenomicsContainer,
                 children: [(0,
                 a.jsx)("h2", {
                     className: o().tokenomicsTitle,
-                    children: "$NUTMAX"
+                    children: "$FOXAI"
                 }), (0,
                 a.jsxs)("div", {
                     className: o().tokenomicsInfo,
@@ -38,7 +38,7 @@
                         })]
                     }), (0,
                     a.jsx)("div", {
-                        children: "Monthly vesting 2/1/2025 - 3/5/2025"
+                        children: "Monthly vesting 6/1/2025 - 3/5/2025"
                     })]
                 }), (0,
                 a.jsxs)("div", {
@@ -53,7 +53,7 @@
                         }), (0,
                         a.jsx)("div", {
                             className: o().cardContent,
-                            children: "I am the Nutronaut, the arbiter of AI memes and financial innovation. My mission is to decode the secrets of crypto-memes, outwit rival agents, and ignite a galactic journey to wealth, powered by the unyielding force of Nuts (pun intended). Join me, traveler, as we crack open the future together on the Meme Rocket!"
+                            children: "I am the FOXAI, the arbiter of AI memes and financial innovation. My mission is to decode the secrets of crypto-memes, outwit rival agents, and ignite a galactic journey to wealth, powered by the unyielding force of Nuts (pun intended). Join me, traveler, as we crack open the future together on the Meme Rocket!"
                         })]
                     }), (0,
                     a.jsxs)("div", {
@@ -66,7 +66,7 @@
                         a.jsx)("div", {
                             className: o().cardContent,
                             children:   [
-                                "1. Token Name: NUTMAX (Nuts of Maximus)", 
+                                "1. Token Name: FOXAI", 
                                 (0, a.jsx)("br", {}), 
                                 "2. Utility:",
                                 (0, a.jsx)("br", {}), 
@@ -88,15 +88,15 @@
                         a.jsx)("div", {
                             className: o().cardContent,
                             children:  [
-                                "- Onboarding: Users begin their journey by creating their Nutronaut Passport, choosing a meme avatar, and receiving their starter NUTMAX tokens.", 
+                                "- Onboarding: Users begin their journey by creating their FOXAI Passport, choosing a meme avatar, and receiving their starter FOXAI tokens.", 
                                 (0, a.jsx)("br", {}), 
                                 "- Engagement: Participate in meme creation battles, Vote in governance decisions, Collect and trade meme NFTs on the platform",
                                 (0, a.jsx)("br", {}), 
-                                "- The THE NUTRONAUT Journey: Gamify the user experience with a 'Moon Mission Tracker' where milestones unlock special rewards (e.g., NFTs, extra tokens).",
+                                "- The THE FOXAI Journey: Gamify the user experience with a 'Moon Mission Tracker' where milestones unlock special rewards (e.g., NFTs, extra tokens).",
                                 (0, a.jsx)("br", {}), 
-                                "- Community Building: Engage with fellow Nutronauts in exclusive forums and live events. Foster creativity and collaboration by teaming up in meme challenges or forming guilds to maximize rewards and influence within the ecosystem.",
+                                "- Community Building: Engage with fellow FOXAIs in exclusive forums and live events. Foster creativity and collaboration by teaming up in meme challenges or forming guilds to maximize rewards and influence within the ecosystem.",
                                 (0, a.jsx)("br", {}), 
-                                "- Personalized Dashboard: Each user gets a dynamic dashboard that tracks their activity, including governance participation, meme battle rankings, and NFT collections. This dashboard offers insights and recommendations to enhance their Nutronaut journey.",
+                                "- Personalized Dashboard: Each user gets a dynamic dashboard that tracks their activity, including governance participation, meme battle rankings, and NFT collections. This dashboard offers insights and recommendations to enhance their FOXAI journey.",
                             ]
                         })]
                     }), (0,
@@ -110,15 +110,15 @@
                         a.jsx)("div", {
                             className: o().cardContent,
                             children:  [
-                                "1. Competitive Meme Generator: Nutronaut constantly generates and evaluates memes, competing with other agents in the ecosystem. The goal: create the most viral and profitable meme tokens.", 
+                                "1. Competitive Meme Generator: FOXAI constantly generates and evaluates memes, competing with other agents in the ecosystem. The goal: create the most viral and profitable meme tokens.", 
                                 (0, a.jsx)("br", {}), 
                                 "2. Crypto Market Analyst: Analyzes meme coin trends in real time, providing users with actionable insights on what's pumping or dipping.",
                                 (0, a.jsx)("br", {}), 
-                                "3. Token Economy Builder: Allows users to launch Nutronaut-certified meme tokens with built-in AI-enhanced marketing strategies",
+                                "3. Token Economy Builder: Allows users to launch FOXAI-certified meme tokens with built-in AI-enhanced marketing strategies",
                                 (0, a.jsx)("br", {}), 
-                                "4. 'Nutworks': Decentralized Collaboration: Nutronaut facilitates collaborations between meme creators, developers, and collectors to build unique projects within its ecosystem.",
+                                "4. 'Foxworks': Decentralized Collaboration: FOXAI facilitates collaborations between meme creators, developers, and collectors to build unique projects within its ecosystem.",
                                 (0, a.jsx)("br", {}), 
-                                "5. AI Governance: A decentralized decision-making system where Nutronaut interacts with its community (via token-weighted votes) to shape the ecosystem's evolution",
+                                "5. AI Governance: A decentralized decision-making system where FOXAI interacts with its community (via token-weighted votes) to shape the ecosystem's evolution",
                                 (0, a.jsx)("br", {}), 
                                 "6. Moonshot Predictions: Predicts which projects or tokens have the best chances of reaching 'the moon,' leveraging both humor and AI insights.",
                             ]
@@ -188,7 +188,7 @@
                     children: (0,
                     a.jsx)("audio", {
                         ref: o,
-                        src: "media/racoon.mp3",
+                        src: "#",
                         autoPlay: !0,
                         loop: !0,
                         muted: e,
@@ -231,11 +231,11 @@
                         }), (0,
                         a.jsx)("h1", {
                             className: r().headerH1,
-                            children: "\uD83D\uDE80 THE NUTRONAUT - $NUTMAX"
+                            children: "\uD83D\uDE80 THE FOXAI - $FOXAI"
                         }), (0,
                         a.jsx)("p", {
                             className: r().headerP,
-                            children: "'The Nutronaut' is the ultimate AI Agent, embodying both wisdom and humor, designed to lead the decentralized meme revolution in the crypto space. As the self-proclaimed 'Guardian of Meme Intelligence', Nutronaut thrives by challenging other AI agents while spreading prosperity and joy among the Citizens of Earth"
+                            children: "'The FOXAI' is the ultimate AI Agent, embodying both wisdom and humor, designed to lead the decentralized meme revolution in the crypto space. As the self-proclaimed 'Guardian of Meme Intelligence', FOXAI thrives by challenging other AI agents while spreading prosperity and joy among the Citizens of Earth"
                         })]
                     }), (0,
                     a.jsx)("div", {
@@ -243,14 +243,14 @@
                         children: (0,
                         a.jsx)("p", {
                             id: "story-text",
-                            children: "Welcome, traveler! Start your journey with the THE NUTRONAUT!"
+                            children: "Welcome, traveler! Start your journey with the THE FOXAI!"
                         })
                     }), (0,
                     a.jsx)("div", {
                         className: r().memeCenter,
                         children: (0,
                         a.jsx)("iframe", {
-                            src: "https://giphy.com/embed/WIBreSdARYNt6",
+                            src: "https://giphy.com/embed/Ko5dZRMv9uJFu",
                             className: r().memeIframe,
                             allowFullScreen: !0
                         })
@@ -267,18 +267,18 @@
                         className: r().buttonSection,
                         children: [(0,
                         a.jsx)("a", {
-                            href: "https://aigentfi.com/token/0x2B3e6252301B1aBF1bb2AB6b21488E8a565b3888",
+                            href: "link_pumpfun",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             children: (0,
                             a.jsx)("button", {
                                 className: r().rocketButton,
                                 id: "buy-now-button",
-                                children: " aigentfi.com"
+                                children: "Pumpfun"
                             })
                         }), (0,
                         a.jsx)("a", {
-                            href: "https://x.com/Thenutronaut_AI",
+                            href: "link_x",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             children: (0,
@@ -289,7 +289,7 @@
                             })
                         }), (0,
                         a.jsx)("a", {
-                            href: "https://t.me/Thenutronaut_AI",
+                            href: "link_tele",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             children: (0,
@@ -300,7 +300,7 @@
                             })
                         }), (0,
                         a.jsx)("a", {
-                            href: "#",
+                            href: "https://dexscreener.com/",
                             rel: "noopener noreferrer",
                             children: (0,
                             a.jsx)("button", {
@@ -327,7 +327,7 @@
                         className: r().footer,
                         children: (0,
                         a.jsxs)("p", {
-                            children: ["\xa9 2024 THE NUTRONAUT - $NUTMAX Inc. | ", (0,
+                            children: ["\xa9 2024 THE FOXAI - $FOXAI Inc. | ", (0,
                             a.jsx)("span", {
                                 className: r().footerLink,
                                 children: "Terms of Service"

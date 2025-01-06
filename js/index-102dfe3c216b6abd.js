@@ -25,21 +25,7 @@
                 }), (0,
                 a.jsxs)("div", {
                     className: o().tokenomicsInfo,
-                    children: [(0,
-                    a.jsxs)("div", {
-                        children: ["Locked at: ", (0,
-                        a.jsx)("span", {
-                            className: o().contractAddress,
-                            children: (0,
-                            a.jsx)("a", {
-                                href: n,
-                                children: e
-                            })
-                        })]
-                    }), (0,
-                    a.jsx)("div", {
-                        children: "Monthly vesting 6/1/2025 - 3/5/2025"
-                    })]
+                    children: []
                 }), (0,
                 a.jsxs)("div", {
                     className: o().tokenomicsGrid,

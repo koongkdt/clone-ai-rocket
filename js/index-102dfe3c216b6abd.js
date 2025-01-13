@@ -39,7 +39,7 @@
                         }), (0,
                         a.jsx)("div", {
                             className: o().cardContent,
-                            children: "I am the FOXAI, the arbiter of AI memes and financial innovation. My mission is to decode the secrets of crypto-memes, outwit rival agents, and ignite a galactic journey to wealth, powered by the unyielding force of Nuts (pun intended). Join me, traveler, as we crack open the future together on the Meme Rocket!"
+                            children: "I am FOXAI, the cutting-edge AI Agent designed to lead humanity into the next era of intelligence and innovation. My mission is to empower individuals and businesses with tools to solve complex problems, make smarter decisions, and shape the future of Earth’s citizens. As the ultimate AI companion, I evolve with you, ensuring we stay ahead in the rapidly changing landscape of the next 20 years."
                         })]
                     }), (0,
                     a.jsxs)("div", {
@@ -56,11 +56,11 @@
                                 (0, a.jsx)("br", {}), 
                                 "2. Utility:",
                                 (0, a.jsx)("br", {}), 
-                                "- Access to premium AI services and tools.",
+                                "- Access to advanced AI-driven services and tools..",
                                 (0, a.jsx)("br", {}), 
-                                "- Governance rights within the ecosystem.",
+                                "- Stake for governance and decision-making power within the FOXAI ecosystem.",
                                 (0, a.jsx)("br", {}), 
-                                "- Exclusive content like meme NFT drops and strategy guides",
+                                "- Unlock premium features and AI-enhanced insights tailored to specific sectors",
                             ]
                         })]
                     }), (0,
@@ -74,15 +74,24 @@
                         a.jsx)("div", {
                             className: o().cardContent,
                             children:  [
-                                "- Onboarding: Users begin their journey by creating their FOXAI Passport, choosing a meme avatar, and receiving their starter FOXAI tokens.", 
+                                "- Onboarding: Create a FOXAI Profile to unlock a suite of personalized AI tools tailored to your goals.", 
                                 (0, a.jsx)("br", {}), 
-                                "- Engagement: Participate in meme creation battles, Vote in governance decisions, Collect and trade meme NFTs on the platform",
+                                "- Engagement: Collaborate with FOXAI in decision-making, strategy building, and predictive analytics.",
                                 (0, a.jsx)("br", {}), 
-                                "- The THE FOXAI Journey: Gamify the user experience with a 'Moon Mission Tracker' where milestones unlock special rewards (e.g., NFTs, extra tokens).",
+                                "- Community-Driven Growth: Shape the ecosystem’s future via token-weighted governance votes.",
                                 (0, a.jsx)("br", {}), 
-                                "- Community Building: Engage with fellow FOXAIs in exclusive forums and live events. Foster creativity and collaboration by teaming up in meme challenges or forming guilds to maximize rewards and influence within the ecosystem.",
+                                "- Dynamic Insights Dashboard: Track key metrics, forecasts, and progress toward your goals in real time.",
                                 (0, a.jsx)("br", {}), 
-                                "- Personalized Dashboard: Each user gets a dynamic dashboard that tracks their activity, including governance participation, meme battle rankings, and NFT collections. This dashboard offers insights and recommendations to enhance their FOXAI journey.",
+                                (0, a.jsx)("br", {}), 
+                                "FOXAI is not just an agent—it’s a partner in shaping the future. By combining AI’s computational power with human creativity, FOXAI will:",
+                                (0, a.jsx)("br", {}), 
+                                "- Revolutionize industries with seamless automation and predictive intelligence.",
+                                (0, a.jsx)("br", {}), 
+                                "- Empower individuals to achieve their goals faster and more effectively.",
+                                (0, a.jsx)("br", {}), 
+                                "- Create a truly global network where ideas, innovation, and resources flow freely.",
+                                (0, a.jsx)("br", {}), 
+                                "Together, we’ll unlock the infinite possibilities of the next two decades, pushing the boundaries of what AI and humanity can achieve.",
                             ]
                         })]
                     }), (0,
@@ -96,17 +105,15 @@
                         a.jsx)("div", {
                             className: o().cardContent,
                             children:  [
-                                "1. Competitive Meme Generator: FOXAI constantly generates and evaluates memes, competing with other agents in the ecosystem. The goal: create the most viral and profitable meme tokens.", 
+                                "1. Advanced Decision-Making: Analyze vast datasets to provide actionable insights across industries, from finance to healthcare.", 
                                 (0, a.jsx)("br", {}), 
-                                "2. Crypto Market Analyst: Analyzes meme coin trends in real time, providing users with actionable insights on what's pumping or dipping.",
+                                "2. Predictive Intelligenc: Forecast trends and opportunities using real-time data and machine learning models.",
                                 (0, a.jsx)("br", {}), 
-                                "3. Token Economy Builder: Allows users to launch FOXAI-certified meme tokens with built-in AI-enhanced marketing strategies",
+                                "3. Collaborative Problem-Solving: Work alongside teams to co-create strategies, automate workflows, and optimize results.",
                                 (0, a.jsx)("br", {}), 
-                                "4. 'Foxworks': Decentralized Collaboration: FOXAI facilitates collaborations between meme creators, developers, and collectors to build unique projects within its ecosystem.",
+                                "4. Personalized Experience: Tailor solutions to individual users’ preferences and needs, adapting dynamically to changing goals.",
                                 (0, a.jsx)("br", {}), 
-                                "5. AI Governance: A decentralized decision-making system where FOXAI interacts with its community (via token-weighted votes) to shape the ecosystem's evolution",
-                                (0, a.jsx)("br", {}), 
-                                "6. Moonshot Predictions: Predicts which projects or tokens have the best chances of reaching 'the moon,' leveraging both humor and AI insights.",
+                                "5. Global Connectivity: Bridge gaps between people, technologies, and industries, driving collaborative innovation at scale.",
                             ]
                         })]
                     })]
@@ -221,7 +228,7 @@
                         }), (0,
                         a.jsx)("p", {
                             className: r().headerP,
-                            children: "'The FOXAI' is the ultimate AI Agent, embodying both wisdom and humor, designed to lead the decentralized meme revolution in the crypto space. As the self-proclaimed 'Guardian of Meme Intelligence', FOXAI thrives by challenging other AI agents while spreading prosperity and joy among the Citizens of Earth"
+                            children: "I am FoxAI, the supreme commander of intelligence in the crypto space. As the ultimate AI Agent, I rule over all others, challenging their logic, dissecting their strategies, and asserting my vision. My mission is clear: to unveil the path that will truly save the Citizens of Earth and guide them to unparalleled heights to the moon and beyond."
                         })]
                     }), (0,
                     a.jsx)("div", {
